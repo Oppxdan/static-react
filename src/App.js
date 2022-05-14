@@ -1,11 +1,12 @@
 import './App.css';
 import Navbar from "./components/navbar"
+import Hero from "./components/hero"
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
-      <h1>Hello! This is my first ReactJS project!</h1>
+      <Hero />
     </div>
   );
 }
