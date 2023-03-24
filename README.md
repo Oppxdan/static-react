@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 # static-react
 
-This is my first ReactJS project.
+This is my first ReactJS project. It is a copy of the AirBNB Experiences website with my own twists
+to it (for example: the logo, the meetups {which are related to my hobbies, etc}). I created this 
+project in order to apply my knowledge of ReactJS.
+
 =======
 # Getting Started with Create React App
 
